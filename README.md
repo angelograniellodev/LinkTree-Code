@@ -1,6 +1,12 @@
 # LinkTree-Code
 This is a website made in html, css and js vanilla about LinkTree, a simple and free way to create your links.
 
+## 📷 Screenshots 📂
+
+### Desktop:  
+
+![App Screenshot](https://media.discordapp.net/attachments/1169794060421189662/1176078615427960893/image.png?ex=656d8f90&is=655b1a90&hm=cc0d9f5776dfadb77c51f527d16cc07a52d53fddbf2e307b2609ed843f1e627e&=&width=879&height=468)
+
 ## 👉 Complete Features 👷🏾‍♀️
 
 - Responsive Web
@@ -28,13 +34,7 @@ https://discord.gg/Z2PRnYPf
 
 ## 🧑 Credits 🌎
 
-. Template: LinkTree
+- Template: LinkTree
 - Main Code: **angelograniellodev** in github
 
 All credits go to the creators.
-
-## 📷 Screenshots 📂
-
-### Desktop:  
-
-![App Screenshot](https://media.discordapp.net/attachments/1169794060421189662/1176078615427960893/image.png?ex=656d8f90&is=655b1a90&hm=cc0d9f5776dfadb77c51f527d16cc07a52d53fddbf2e307b2609ed843f1e627e&=&width=879&height=468)
